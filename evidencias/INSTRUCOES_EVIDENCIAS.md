@@ -1,36 +1,70 @@
-# Instrucoes para Evidencias
+# Instruções para coletar evidências
 
-Adicionar nesta pasta os materiais que comprovam o desenvolvimento do projeto.
+Salve os prints dentro desta pasta antes de compactar a entrega.
 
-## Prints obrigatorios sugeridos
+## Prints do sistema
 
-Salvar dentro da pasta `prints/`:
+Crie a pasta:
 
-1. `01-tela-inicial-dashboard.png`
-2. `02-cadastro-cultura.png`
-3. `03-listagem-culturas.png`
-4. `04-edicao-cultura.png`
-5. `05-exclusao-cultura.png`
-6. `06-fluxo-completo.png`
+```text
+prints/
+```
 
-## Prints do GitHub
+Sugestão de nomes:
 
-Salvar dentro da pasta `prints-git/`:
+```text
+01-dashboard.png
+02-cadastro-cultura.png
+03-cultura-cadastrada.png
+04-listagem-culturas.png
+05-busca-filtro.png
+06-edicao-cultura.png
+07-exclusao-cultura.png
+08-responsivo.png
+```
 
-1. `01-repositorio-github.png`
-2. `02-historico-commits.png`
-3. `03-commits-integrantes.png`
-4. `04-estrutura-pastas.png`
+## Prints do Git e GitHub
 
-## Video de demonstracao
+Crie a pasta:
 
-Gravar um video de ate 10 minutos contendo:
+```text
+prints-git/
+```
 
-- Apresentacao do projeto.
-- Demonstracao do cadastro de cultura.
-- Demonstracao da listagem.
-- Demonstracao da edicao.
-- Demonstracao da exclusao.
-- Explicacao breve do que cada integrante desenvolveu.
+Sugestão de nomes:
 
-Depois, colocar o link no README.md e em um arquivo chamado `link-video.txt`.
+```text
+01-repositorio-github.png
+02-historico-commits.png
+03-commit-felipe.png
+04-commit-enzo.png
+05-commit-leonardo.png
+06-commit-lucas.png
+07-git-log-terminal.png
+08-git-status-limpo.png
+```
+
+## Comandos úteis para prints
+
+```bash
+git status
+```
+
+```bash
+git log --oneline --decorate --graph --all
+```
+
+```bash
+git branch
+```
+
+## Vídeo
+
+Grave até 10 minutos demonstrando:
+
+1. Tela inicial e dashboard.
+2. Cadastro de uma cultura.
+3. Consulta/listagem.
+4. Edição.
+5. Exclusão.
+6. Breve explicação da contribuição de cada integrante.
