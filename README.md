@@ -70,8 +70,8 @@ http://localhost:5173
 
 ## Link do repositorio
 
-Adicionar aqui o link do GitHub apos a criacao do repositorio.
+https://github.com/Leonardo-Gabriel/GRP.git
 
 ## Link do video de demonstracao
 
-Adicionar aqui o link do video apos a gravacao.
+https://drive.google.com/file/d/1UPWSSarYaYJVMxna5A68ISptsSkmLqZn/view?usp=sharing
